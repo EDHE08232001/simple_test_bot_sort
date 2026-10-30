@@ -8,3 +8,6 @@
 
 # Model weights
 *.pt
+
+# no results or plottings
+/results/
