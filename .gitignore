@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+._*
+
+# Local data and environments
+/datasets/
+/venv/
+
+# Model weights
+*.pt
